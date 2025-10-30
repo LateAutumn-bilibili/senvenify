@@ -1,9 +1,44 @@
 ![icon](./resources/orb.png)
 # senvenify | 恢复Win7
 
-**Description|简介**
 
-transform win10 into win7  
+**简介**
+
+
 将Win10转换为Win7  
 
-This project is under construction now,so there are no files|本项目目前正在建设，所以还没有文件
+
+当前版本3.6，更新时间2025年10月30日
+
+
+更新日志
+
+
+Version3.6-2025年10月27日
+
+
+修复文本输入位置右键菜单中“关闭输入法”和“汉字重选”选项文字消失问题
+
+
+简洁版：最后更新内容，新增mod，修复代码错误
+
+
+修复Classic主题下资源管理器导航栏没有展开、折叠按钮问题
+
+
+修复Classic主题下控制面板个性化颜色显示错误问题
+
+
+修复切换至Classic主题且任务栏为大图标时开始按钮大小错误问题
+
+
+更新许可信息、难以解答、使用前必读文档
+
+
+修复回收站右键文本不准确问题
+
+
+恢复旧版媒体播放器对话框
+
+
+#恢复家庭组#
